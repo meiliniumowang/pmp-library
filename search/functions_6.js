@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['garbage_5fcollection',['garbage_collection',['../classpmp_1_1_surface_mesh.html#a18ccfc2210e9d09621859d6f95381aaf',1,'pmp::SurfaceMesh']]],
+  ['gauss_5fcurvature',['gauss_curvature',['../classpmp_1_1_surface_curvature.html#a44688f93572400f0df29503409ceab5c',1,'pmp::SurfaceCurvature']]],
+  ['gauss_5fcurvature_5fto_5ftexture_5fcoordinates',['gauss_curvature_to_texture_coordinates',['../classpmp_1_1_surface_curvature.html#abd7ed054b18827d33ffac7fec99b13fd',1,'pmp::SurfaceCurvature']]],
+  ['get_5fedge_5fproperty',['get_edge_property',['../classpmp_1_1_surface_mesh.html#a51ea236c6f8ad2b45d31406c7cee7d7a',1,'pmp::SurfaceMesh']]],
+  ['get_5fedge_5fproperty_5ftype',['get_edge_property_type',['../classpmp_1_1_surface_mesh.html#a7b451e81f1118b8569bd65f21efc1065',1,'pmp::SurfaceMesh']]],
+  ['get_5fface_5fproperty',['get_face_property',['../classpmp_1_1_surface_mesh.html#afdd00a678594b0bca5f94ce38ebc106a',1,'pmp::SurfaceMesh']]],
+  ['get_5fface_5fproperty_5ftype',['get_face_property_type',['../classpmp_1_1_surface_mesh.html#a7afa42e5f73b7be7038ff76d1bb403f6',1,'pmp::SurfaceMesh']]],
+  ['get_5fhalfedge_5fproperty',['get_halfedge_property',['../classpmp_1_1_surface_mesh.html#aea902acadc705561ec80b5f3de268199',1,'pmp::SurfaceMesh']]],
+  ['get_5fhalfedge_5fproperty_5ftype',['get_halfedge_property_type',['../classpmp_1_1_surface_mesh.html#a0381022f9dd3ed36d039d22b20751da0',1,'pmp::SurfaceMesh']]],
+  ['get_5fmajor',['get_major',['../classpmp_1_1_version.html#a03420360e55bc6aa704dea2f6662b394',1,'pmp::Version']]],
+  ['get_5fminor',['get_minor',['../classpmp_1_1_version.html#a779521405d796b6d0068b47d63e89978',1,'pmp::Version']]],
+  ['get_5fobject_5fproperty',['get_object_property',['../classpmp_1_1_surface_mesh.html#adaa04a63370a036d137d69aca343a0b2',1,'pmp::SurfaceMesh']]],
+  ['get_5fobject_5fpropertytype',['get_object_propertyType',['../classpmp_1_1_surface_mesh.html#a156095ec2cc9629d464d6704781cdff6',1,'pmp::SurfaceMesh']]],
+  ['get_5fpatch',['get_patch',['../classpmp_1_1_version.html#a270a5a51cedd2f8b09ed18cbf8cc71b3',1,'pmp::Version']]],
+  ['get_5fversion',['get_version',['../classpmp_1_1_version.html#a97c49d303bbf54bed2e1e6709deeb67c',1,'pmp::Version']]],
+  ['get_5fvertex_5fproperty',['get_vertex_property',['../classpmp_1_1_surface_mesh.html#aac2f4d4f4af9dcad678c6c8f792deefd',1,'pmp::SurfaceMesh']]],
+  ['get_5fvertex_5fproperty_5ftype',['get_vertex_property_type',['../classpmp_1_1_surface_mesh.html#a3571c1123416a96a967c17838a2e9a44',1,'pmp::SurfaceMesh']]]
+];
